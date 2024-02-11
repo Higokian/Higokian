@@ -9,4 +9,4 @@ My name is Jason, I'm a full stack developer. I received an Associates Degree in
 ## 🔭 I'm currently working on a [Front End Resource Hub](https://github.com/RW2023/fer) with my Front End Collab friends.
 ## 🌱 I'm currently focused on learning React. 
 ## 📫 Best way to reach me is through discord: [Higokian](discordapp.com/users/472199088113188864)
-## 👥 If you're interested in joining a friendly community focus on helping each other learn, check out our discord! [Front End Collab](https://discord.gg/gQEKFdEMHM)
+## 👥 If you're interested in joining a friendly community focused on helping each other learn, check out our discord! [Front End Collab](https://discord.gg/gQEKFdEMHM)
