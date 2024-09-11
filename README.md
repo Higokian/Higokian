@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Jason, I'm a full stack developer. I received an Associates Degree in computer programming back in 2019. 👨‍🎓 I've learned the basics of Python, Java, C++, Visual Basic, Xamarin, and COBOL. I'm most experienced with HTML, CSS and Javascript. I'm currently mostly focused on Front-end work. I also dabble a little in game development. 🎮 I'm always in search of projects to help me learn new concepts, gain experience and build up my portfolio!⚡ 
+My name is Jason, I'm a full stack developer. I received an Associates Degree in computer programming back in 2019. 👨‍🎓 I've learned the basics of Python, Java, C++, Visual Basic, Xamarin, and COBOL. I'm most experienced with HTML, CSS and Javascript. I'm currently focusing on Cybersecurity. I also dabble a little in game development. 🎮 I'm always in search of projects to help me learn new concepts, gain experience and build up my portfolio!⚡ 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
