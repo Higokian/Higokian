@@ -6,7 +6,7 @@ My name is Jason, I'm a full stack developer. I received an Associates Degree in
 
 
 
-## 🔭 I'm currently working on a [Front End Resource Hub](https://github.com/RW2023/fer) with my Front End Collab friends.
-## 🌱 I'm currently focused on learning React. 
+## 🔭 I'm currently working through the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations) on [The Odin Project](https://www.theodinproject.com/).
+## 🌱 I'm currently focused on CSS. 
 ## 📫 Best way to reach me is through discord: ![](https://dcbadge.vercel.app/api/shield/472199088113188864)
 ## 👥 If you're interested in joining a friendly community focused on helping each other learn, check out our discord! [![](https://dcbadge.vercel.app/api/server/gQEKFdEMHM)](https://discord.gg/gQEKFdEMHM)
